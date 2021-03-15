@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="pinforConnectionString-Web.config Connection String" description="pinforConnectionString 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=DESKTOP-5UEN9I1\SQLEXPRESS;Initial Catalog=pinfor;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\病历\\发布服务器\\MedicalRecord\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='pinforConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="ConnectionString-Web.config Connection String" description="ConnectionString 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=DESKTOP-5UEN9I1\SQLEXPRESS;Initial Catalog=pinfor;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\病历\\发布服务器\\MedicalRecord\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

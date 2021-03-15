@@ -1,0 +1,9 @@
+E:\病历\发布服务器\MedicalRecord\bin\MedicalRecord.dll.config
+E:\病历\发布服务器\MedicalRecord\bin\MedicalRecord.dll
+E:\病历\发布服务器\MedicalRecord\bin\MedicalRecord.pdb
+E:\病历\发布服务器\MedicalRecord\obj\Debug\MedicalRecord.csproj.CoreCompileInputs.cache
+E:\病历\发布服务器\MedicalRecord\obj\Debug\MedicalRecord.dll
+E:\病历\发布服务器\MedicalRecord\obj\Debug\MedicalRecord.pdb
+E:\病历\发布服务器\MedicalRecord\bin\AjaxControlToolkit.dll
+E:\病历\发布服务器\MedicalRecord\obj\Debug\MedicalRecord.csproj.CopyComplete
+E:\病历\发布服务器\MedicalRecord\obj\Debug\MedicalRecord.csprojAssemblyReference.cache

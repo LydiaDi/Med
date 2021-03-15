@@ -1,0 +1,207 @@
+﻿body {
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*涵盖整个页面中的内容*/
+.container {
+    width: 95%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+    /*background-color: #fff4f4;*/
+}
+
+
+/*页面的左侧部分，包括表格、上边的按钮和下边的按钮*/
+.a {
+    width: 30%;
+    float: left;
+    height: 430px;
+}
+
+.item {
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    text-align: center;
+    background-color: #ffe5f2;
+}
+
+.item2 {
+    text-align: center;
+    border: 1px solid #ffe5f2;
+}
+
+
+/*表格上方的三个按钮*/
+.a2 {
+    margin-left: 170px;
+}
+
+/*表格*/
+.a1 {
+    background-color: white;
+    border-color: grey;
+    border: solid 1px;
+    width: 350px;
+    height: 735px;
+    margin-top: 10px;
+    margin-left: 30px;
+    overflow-y: scroll;
+}
+
+/*表格下面的按钮*/
+.btn2 {
+    margin-top: 15px;
+    margin-left: 140px;
+}
+
+
+/*页面右边底部按钮*/
+.btn {
+    margin-top: 0;
+    width: 200px;
+    margin-left: 600px;
+    clear: both;
+}
+
+
+/*包含整个页面右面内容的div容器*/
+.Menu2 {
+    /* width: 70%;*/
+    width: 70%;
+    float: left;
+    height: 100%;
+}
+
+/*包含整个二级菜单a页面的div容器*/
+.b {
+    width: 100%;
+    float: left;
+    background-color: white;
+}
+
+/*包含a1页面左半部分的div容器*/
+.c {
+    width: 50%;
+    height: 345px;
+    float: left;
+    /* margin-right: 60px;*/
+    margin-left: 20px;
+    padding: 5px;
+}
+
+/*包含a1页面右半部分的div容器*/
+.d {
+    width: 45%;
+    height: 345px;
+    float: left;
+    padding: 5px;
+}
+
+/*包含整个a1页面的div容器*/
+.e {
+    padding: 10px;
+    margin-left: 10px;
+    width: 95%;
+}
+
+/*为了实现此div容器中的内容可以在一行中显示*/
+.inline {
+    display: inline-block;
+}
+/*b1页面框*/
+.kuang {
+    padding: 10px;
+}
+
+/*b1页面中的触诊模块*/
+.chuzhen {
+    /* width: 260px;*/
+    width: 50%;
+    height: 170px;
+    float: left;
+    /*margin-left: 20px;*/
+}
+
+/*b1页面中的触诊模块左侧单选“有无”部分*/
+.chuzhen_1 {
+    height: 90px;
+    width: 50px;
+    float: left;
+}
+
+/*b1页面中的触诊模块右侧部分*/
+.chuzhen_2 {
+    height: 110px;
+    width: 200px;
+    float: left;
+    margin-top: 56px;
+}
+
+/*b1页面中的超声模块*/
+.chaosheng {
+    /*width: 260px;*/
+    width: 50%;
+    height: 170px;
+    float: right;
+    /*margin-right: 50px;*/
+}
+
+/*b1页面中的超声模块左侧单选部分*/
+.chaosheng_1 {
+    height: 90px;
+    width: 50px;
+    float: left;
+}
+
+/*b1页面中的超声模块右侧部分*/
+.chaosheng_2 {
+    height: 110px;
+    width: 200px;
+    float: left;
+    margin-top: 56px;
+}
+
+/*b1页面第一版块“SLN检查”部分的底部*/
+.b_1_1_bottom {
+    clear: both;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+/*b1页面第二版块“术前穿刺活检”部分*/
+.b_1_2 {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+/*b2页面第一版块“示踪信息”部分*/
+.b_2_1 {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+/*b2页面第二版块“SLN信息”部分*/
+.b_2_2 {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+
+/*用来实现间隔效果*/
+.jiange {
+    height: 5px;
+    margin-left: 20px;
+}
+
+/*用于对导航栏中的样式进行统一设计*/
+.title {
+    /*border-bottom:none;*/
+}
